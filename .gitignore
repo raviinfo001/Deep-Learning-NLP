@@ -1,4 +1,5 @@
 **/logs/*
 **/venv/*
 **/regressionlogs/*
+*.h5
 .databricks
